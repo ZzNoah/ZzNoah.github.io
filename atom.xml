@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZzNoah.github.io/</id>
     <title>ZzNoah</title>
-    <updated>2021-10-11T07:28:47.086Z</updated>
+    <updated>2021-10-11T08:30:57.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZzNoah.github.io/"/>
     <link rel="self" href="https://ZzNoah.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://ZzNoah.github.io/images/avatar.png</logo>
     <icon>https://ZzNoah.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ZzNoah</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://ZzNoah.github.io/post/hello-world/</id>
+        <link href="https://ZzNoah.github.io/post/hello-world/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>I'm hosted with GitHub Pages.</p>
+]]></content>
+    </entry>
 </feed>
